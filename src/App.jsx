@@ -1,5 +1,5 @@
 import React from 'react';
-import Expenses from './Components/Expenses';
+import Expenses from '../public/CSS/JSX/Expenses';
 
 export default function App() {
   const expenses = [
