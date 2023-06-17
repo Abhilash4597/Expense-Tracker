@@ -26,7 +26,7 @@ export default function App() {
       id: 'e4',
       title: 'New Desk (Wooden)',
       amount: 450,
-      date: new Date(2021, 3, 5),
+      date: new Date(2021, 3, 15),
     },
   ];
   return <Expenses expenses={expenses} />;
